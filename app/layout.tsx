@@ -16,7 +16,7 @@ const fredoka = Fredoka({
 })
 
 export const metadata: Metadata = {
-  title: "Alex Chen - Full-Stack Developer",
+  title: "Chaitya Shah - Best guy in the room",
   description: "Retro-inspired portfolio of a full-stack developer serving up fresh code daily",
   generator: "v0.app",
 }
